@@ -1,5 +1,7 @@
 # Subreddit Classifier
 
+## Executive Summary
+
 ## Outline
 
 - Data Gathering
